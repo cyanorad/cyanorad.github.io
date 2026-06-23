@@ -1,0 +1,14 @@
+{
+  "obsidian:open-quick-switcher": [
+    {
+      "modifiers": ["Mod"],
+      "key": "p"
+    }
+  ],
+  "obsidian:show-graph": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "g"
+    }
+  ]
+}

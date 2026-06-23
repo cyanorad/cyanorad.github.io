@@ -1,0 +1,21 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# System files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
