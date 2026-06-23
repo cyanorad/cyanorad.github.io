@@ -3,8 +3,5 @@
   "cssTheme": "",
   "accentColor": "",
   "showRibbon": true,
-  "showStatus": true,
-  "showFileTree": true,
-  "baseFontSize": 16,
-  "baseFontFamily": ""
+  "baseFontSize": 16
 }

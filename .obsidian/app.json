@@ -1,4 +1,7 @@
 {
+  "showStatus": true,
+  "showFileTree": true,
+  "baseFontFamily": "",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "assets/attachments",
