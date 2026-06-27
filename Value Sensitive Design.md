@@ -1,0 +1,1 @@
+Friedman & Hendry, _Value Sensitive Design_ (2019); Ulrich & Reynolds, "Critical Systems Heuristics" (2010).

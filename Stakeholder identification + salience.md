@@ -1,0 +1,1 @@
+Freeman, _Strategic Management_ (1984); Mitchell, Agle & Wood, "Toward a Theory of Stakeholder Identification and Salience" (1997).

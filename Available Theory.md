@@ -1,0 +1,10 @@
+[[Actor Network Theory]] of course
+[[Hohfeldian jural relations]]
+[[Stakeholder identification + salience]]
+[[SCOT or The Social Construction of Facts and Artefacts]] 
+[[Value Sensitive Design]]
+[[Working role-allocation regimes]]  
+[[Steps Toward an Ecology of Infrastructure]]
+[[Accountability distribution / responsibility gap]]
+[[Public Values and Public Interest]]
+[[Multistakeholder governance typology]]
