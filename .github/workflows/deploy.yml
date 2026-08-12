@@ -51,7 +51,7 @@ jobs:
         run: npx quartz plugin install
 
       - name: Build site
-        run: npx quartz build -d vault
+        run: npx quartz build -d .
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
