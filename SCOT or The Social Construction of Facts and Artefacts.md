@@ -1,1 +1,0 @@
-Pinch & Bijker, "The Social Construction of Facts and Artefacts" (1984).

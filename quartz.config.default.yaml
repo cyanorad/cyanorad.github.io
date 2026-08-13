@@ -12,6 +12,7 @@ configuration:
     - private
     - _Templates
     - .obsidian
+    - README.md
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

@@ -9,6 +9,7 @@ node_modules/
 
 # Quartz plugin cache (downloaded at build time)
 .quartz/
+quartz/.quartz-cache/
 
 # macOS
 .DS_Store
