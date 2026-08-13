@@ -1,5 +1,5 @@
 ---
-title: cyanorad
+title: Home
 ---
 
 Learning in public. Leaving a curiosity trail.
